@@ -1,2 +1,6 @@
 # AI-agent-healthcare
-Symptom Checker  Medication Reminder Bot  AI Assistant for Doctors (helps with patient summaries)  Diet &amp; Fitness Advisor (for chronic diseases like diabetes)  Medical Report Analyzer
+Symptom Checker 
+Medication Reminder Bot
+AI Assistant for Doctors
+Diet & Fitness Advisor 
+Medical Report Analyzer
